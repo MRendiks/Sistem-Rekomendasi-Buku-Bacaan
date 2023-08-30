@@ -1,4 +1,4 @@
-# Sistem Rekomendasi Untuk Buku Bacaan - Muhamad Rendi
+# Model Sistem Rekomendasi Untuk Buku Bacaan - Muhamad Rendi
 
 ## Daftar Isi
 
